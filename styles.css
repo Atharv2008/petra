@@ -1,0 +1,26 @@
+.pe{
+    color: sienna;
+    text-align: center;
+}
+.tl{
+    color: gray;
+    text-align: center;
+}
+.d{
+    background-color: orangered;
+    color: white;
+    box-shadow:red ;
+}
+.ba{
+    height: 300px;
+    width: 300px;
+    border-radius: 5%;
+    margin-left: 60%;
+}
+.d1{
+    color: orangered;
+}
+.i{
+    height: 300px;
+    margin-left: 60%;
+}
